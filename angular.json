@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "AngularUploadDownload"
+  "defaultProject": "AngularUploadDownload",
+  "cli": {
+    "analytics": false
+  }
 }
